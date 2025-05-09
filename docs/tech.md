@@ -9,7 +9,6 @@ The English Learning App backend is built using a modern Node.js stack with the 
 - **Database**: MongoDB with Mongoose ODM
 - **Authentication**: JSON Web Tokens (JWT)
 - **API Style**: RESTful architecture
-- **Validation**: express-validator
 
 ### Directory Structure
 ```
